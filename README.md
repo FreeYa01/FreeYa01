@@ -1,16 +1,58 @@
-### Hi there 👋
+Skip to content
+Search or jump to…
+Pull requests
+Issues
+Marketplace
+Explore
+ 
+@FreeYa01 
+codeSTACKr
+/
+codeSTACKr
+Public
+Code
+Issues
+17
+Pull requests
+14
+Actions
+Projects
+Security
+Insights
+codeSTACKr/README.md
 
-<!--
-**FreeYa01/FreeYa01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+blog-post-bot Updated with the latest blog posts
+Latest commit 129dd3a 5 days ago
+ History
+ 4 contributors
+@codeSTACKr@github-actions@invalid-email-address@Alan-Cha
+119 lines (93 sloc)  8.96 KB
 
-Here are some ideas to get you started:
+Hi there, I'm FreeYa  👋
+I'm a student, and I'm currently in my senior internship!
+🔭 Check out my VS Code course: Become A VS Code SuperHero!!
+🌱 I’m currently learning everything 🤣
+🥅 2022 Goals: Get an offer!!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+📕 Latest Blog Posts
+Getting Started with Golang & kubernetes
+➡️ more blog posts...
+
+⚡ Recent GitHub Activity
+⚡ GitHub Stats
+Footer
+© 2022 GitHub, Inc.
+Footer navigation
+Terms
+Privacy
+Security
+Status
+Docs
+Contact GitHub
+Pricing
+API
+Training
+Blog
+About
+
